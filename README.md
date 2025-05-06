@@ -50,3 +50,29 @@ npm run dev
 cd backend
 pip install -r requirements.txt
 python app.py
+
+Future Plans
+
+AI-based investment recommendation
+
+Authenticated user portfolios
+
+Excel export for portfolio reports
+
+Visual comparison graphs for individual asset performance
+
+
+
+---
+
+License
+
+This project is under the MIT License.
+
+
+---
+
+Author
+
+Udyat Vishesh
+GitHub
