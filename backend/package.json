@@ -1,6 +1,7 @@
 {
   "name": "backend",
   "version": "1.0.0",
+  "type": "commonjs",
   "main": "server/index.ts",
   "scripts": {
     "start": "ts-node server/index.ts",
